@@ -1,5 +1,5 @@
 # Data-Structures
-Implementations of some basic data structures.
+Implementations of some data structures.
 * Stack
 * Queue
 * Linked List
